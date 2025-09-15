@@ -1,6 +1,5 @@
 # Qubic Foundation
 ## Our Mission 
-# Qubic Foundation Mission Statement
 
 The Qubic Foundation is dedicated to fostering a thriving, community-driven environment that empowers Qubic outreach, cultivates strategic partnerships, advances on-chain technology development, and seamlessly onboards developers into the Qubic Ecosystem. Guided by decentralized governance through smart contracts, we create a dynamic and inclusive platform where innovation, collaboration, and growth converge to drive the future of decentralized technologies.
 
