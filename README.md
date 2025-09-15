@@ -16,7 +16,7 @@ The Qubic Foundation is dedicated to fostering a thriving, community-driven envi
 
 5. **Sustainability and Scalability**: We are committed to building a sustainable ecosystem that supports long-term growth, scalability, and resilience for all participants in the Qubic network.
 
-## Our Team
+<!-- ## Our Team
 CEO - Organizes Foundation roadmaps and controls the exective board - TBA
 CFO - Handles all matters of finance - TBA
 COO - Executes operations 
@@ -47,7 +47,7 @@ The Qubic Foundation is dedicated to fostering a thriving, community-driven envi
 
 4. **Collaborative Partnerships**: By forging strategic alliances with like-minded organizations and projects, we amplify our impact and create a robust network for shared growth and innovation.
 
-5. **Sustainability and Scalability**: We are committed to building a sustainable ecosystem that supports long-term growth, scalability, and resilience for all participants in the Qubic network.
+5. **Sustainability and Scalability**: We are committed to building a sustainable ecosystem that supports long-term growth, scalability, and resilience for all participants in the Qubic network. -->
 
 ## Our Team
 
